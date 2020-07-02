@@ -1,6 +1,6 @@
 {
   "name": "wrandom",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Gavin Lloyd <gavinhungry@gmail.com>",
   "description": "Get a random element from a weighted array",
   "license": "MIT",
