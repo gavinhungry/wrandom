@@ -1,0 +1,20 @@
+{
+  "name": "wrandom",
+  "version": "0.0.1",
+  "author": "Gavin Lloyd <gavinhungry@gmail.com>",
+  "description": "Get a random element from a weighted array",
+  "license": "MIT",
+
+  "keywords": [
+    "random",
+    "weighted"
+  ],
+
+  "homepage": "https://github.com/gavinhungry/wrandom",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gavinhungry/wrandom.git"
+  },
+
+  "main": "wrandom.js"
+}
